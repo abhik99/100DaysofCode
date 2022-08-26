@@ -17,3 +17,21 @@ Today I learned in python
 > Strings & Lists and their functions & Methods 
 
 that's it for today see you tomorrow.
+
+
+Day 2 of #100daysofcodechallenge
+
+Today I learned in python
+
+> Lists 
+
+> List operations
+
+> List functions
+
+> List methods
+
+> and played with what I have learned today.
+
+that's it for today see you tomorrow.
+
