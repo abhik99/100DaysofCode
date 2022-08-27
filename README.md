@@ -35,3 +35,22 @@ Today I learned in python
 
 that's it for today see you tomorrow.
 
+
+Day 3 of #100daysofcodechallenge
+
+Today I learned in python
+
+> Tuple, Set and Dictionary 
+
+> Tuple and Dictionary methods
+
+> Comments and Indentation
+
+> Conditional statement(if-else)
+
+> and played with what I have learned today.
+
+
+that's it for today see you tomorrow.
+
+
