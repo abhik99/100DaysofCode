@@ -54,3 +54,16 @@ Today I learned in python
 that's it for today see you tomorrow.
 
 
+Day 4 of #100daysofcodechallenge
+
+
+Today I learned in python
+
+> Loops & Iterations
+
+> List comprehension 
+
+that's it for today see you tomorrow.
+
+
+#day4 #python #datascience #100daysofcode #100daysofcodechallenge #dailycoding
