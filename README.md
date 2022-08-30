@@ -67,3 +67,15 @@ that's it for today see you tomorrow.
 
 
 #day4 #python #datascience #100daysofcode #100daysofcodechallenge #dailycoding
+
+Day 5 of #100daysofcodechallenge
+
+Today I learned in python
+
+> Functions & Methods
+
+> Introduction to Numpy
+
+that's it for today see you tomorrow.
+
+#day5 #python #datascience #100daysofcode #100daysofcodechallenge #dailycoding
