@@ -79,3 +79,13 @@ Today I learned in python
 that's it for today see you tomorrow.
 
 #day5 #python #datascience #100daysofcode #100daysofcodechallenge #dailycoding
+
+Day 6 of #100daysofcodechallenge
+
+Today I learned in python
+
+> Introduction to Pandas and Its operation. 
+
+that's it for today see you tomorrow.
+
+#day6 #python #datascience #100daysofcode #100daysofcodechallenge #dailycoding
