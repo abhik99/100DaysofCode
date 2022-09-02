@@ -97,4 +97,14 @@ Today I learned in python
 
 that's it for today see you tomorrow.
 
-#day7 #python #datascience #100daysofcode #100daysofcodechallenge #dailycoding
+Day 8 of #100daysofcodechallenge
+
+Today I learned in python
+
+> Adding python package 
+
+> how to create your own class
+
+that's it for today see you tomorrow.
+
+
